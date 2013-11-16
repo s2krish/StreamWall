@@ -49,13 +49,12 @@ var createRow = function(data) {
 		{title: 'I am default rows 18'},
 	];
 	
-	var StreamWall = require('/StreamWall');
-	
 	var win = Ti.UI.createWindow({
 		title:'Stream Wall',
 		backgroundColor: '#fff',
 	});
 	
+	var StreamWall = require('/StreamWall');
 	var streamWall = new StreamWall();
 	
 	var defaultRows = createRow(defaultRecords);

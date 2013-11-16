@@ -69,7 +69,7 @@ function StreamWall() {
 	
 	self.ready = function() {
 		refreshLabel.pull = false;
-		loadmoreLabel.push = false;
+		loadMoreLabel.push = false;
 	};
 	
 	/**

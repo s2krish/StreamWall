@@ -1,7 +1,8 @@
 StreamWall - Skeleton for mobile application (iOS, Android) for Facebook (Twitter) like Pull to Refresh and Lazy Loader.
 
 ##License
-Copyright 2013 Krishna Sunuwar
+
+    Copyright 2013 Krishna Sunuwar
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
